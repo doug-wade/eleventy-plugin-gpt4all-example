@@ -1,0 +1,30 @@
+{
+    "name": "eleventy-plugin-gpt4all-example",
+    "version": "0.0.1",
+    "description": "An example of how to use eleventy-plugin-gpt4all",
+    "main": "index.js",
+    "private": true,
+    "scripts": {
+        "build": "eleventy",
+        "clean": "rimraf _site/",
+        "serve": "eleventy --serve --port 3000"
+    },
+    "keywords": [
+        "11ty",
+        "eleventy",
+        "gpt",
+        "gpt4all"
+    ],
+    "author": "Douglas Wade <douglas.b.wade@gmail.com>",
+    "license": "MIT",
+    "devDependencies": {
+        "@11ty/eleventy": "^2.0.1",
+        "eleventy-plugin-gpt4all": "^0.0.1",
+        "rimraf": "^5.0.5"
+    },
+    "bugs": {
+        "url": "https://github.com/doug-wade/eleventy-plugin-gpt4all/issues?q=is%3Aissue+is%3Aopen"
+    },
+    "homepage": "https://github.com/doug-wade/eleventy-plugin-gpt4all",
+    "repository": "https://github.com/doug-wade/eleventy-plugin-gpt4all.git"
+}
