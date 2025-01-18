@@ -26,5 +26,6 @@
         "url": "https://github.com/doug-wade/eleventy-plugin-gpt4all/issues?q=is%3Aissue+is%3Aopen"
     },
     "homepage": "https://github.com/doug-wade/eleventy-plugin-gpt4all",
-    "repository": "https://github.com/doug-wade/eleventy-plugin-gpt4all.git"
+    "repository": "https://github.com/doug-wade/eleventy-plugin-gpt4all.git",
+    "packageManager": "yarn@1.22.19+sha1.4ba7fc5c6e704fce2066ecbfb0b0d8976fe62447"
 }
