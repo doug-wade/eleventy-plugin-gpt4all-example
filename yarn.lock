@@ -703,10 +703,10 @@ ejs@^3.1.9:
   dependencies:
     jake "^10.8.5"
 
-eleventy-plugin-gpt4all@^0.0.8:
-  version "0.0.8"
-  resolved "https://registry.yarnpkg.com/eleventy-plugin-gpt4all/-/eleventy-plugin-gpt4all-0.0.8.tgz#203b3679b0d578cba512e92cb374f480473389f3"
-  integrity sha512-Oy2QZuRl7/OZyR607tOtKJWaE5qiilHeG0miOdva2guHO30Sd26kmUkwoebjs/DE9/JL1/do4dX7RWIgRTw3JQ==
+eleventy-plugin-gpt4all@^0.0.9:
+  version "0.0.9"
+  resolved "https://registry.yarnpkg.com/eleventy-plugin-gpt4all/-/eleventy-plugin-gpt4all-0.0.9.tgz#0254abed2ee04b3867c8d5c21bbf5ebc7b12309b"
+  integrity sha512-KjwPF6Ald69hUi9spKutGKfHee2sJpsMvS0XPhHuywgtTt0i7zXFAb4BUmeFcSbcLJ9qwjW35GkDbbdL0K/PRw==
   dependencies:
     gpt4all "^4.0.0"
     jsdom "^25.0.1"
