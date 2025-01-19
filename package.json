@@ -19,7 +19,7 @@
     "license": "MIT",
     "devDependencies": {
         "@11ty/eleventy": "^2.0.1",
-        "eleventy-plugin-gpt4all": "^0.0.8",
+        "eleventy-plugin-gpt4all": "^0.0.9",
         "rimraf": "^5.0.5"
     },
     "bugs": {
